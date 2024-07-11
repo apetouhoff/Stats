@@ -12,6 +12,7 @@ dependencies:
   - matplotlib
   - scikit-learn
   - numpy
+  - scipy
   - statsmodels
   - r-dplyr
   - r-ggplot2
